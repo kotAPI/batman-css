@@ -1,0 +1,170 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #98a4a6;
+}
+
+#batman-logo{
+	width: 700px;
+	height: 350px;
+	background: black;
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	border-radius: 700px/330px;
+
+
+}
+#real-batman-really{
+	width: 614px;
+    height: 281px;
+    background: #000;
+    position: relative;
+    top: 6%;
+    left: 4%;
+    border-radius: 700px/330px;
+}
+#batman-background{
+	top: 4%;
+    left: 3%;
+    position: relative;
+    width: 662px;
+    height: 320px;
+    background: #edc233;
+    border-radius: 700px/330px;
+}
+
+#left-top-wing{
+	position: absolute;
+    top: 9%;
+    left: 31%;
+    height: 100px;
+    width: 100px;
+    background: #edc233;
+    border-top-left-radius: 63px 62px;
+    border-top-right-radius: 44px 0px;
+    border-bottom-right-radius: 24px 56px;
+    border-bottom-left-radius: 89px 51px;
+}
+
+#straightner-1{
+	
+	position: absolute;
+    top: 8%;
+    left: 40%;
+    height: 64px;
+    width: 36px;
+    background: #edc233;
+}
+
+#right-top-wing{
+	position: absolute;
+    top: 9%;
+    left: 60%;
+    height: 107px;
+    width: 106px;
+    background: #edc233;
+    border-top-left-radius: 44px 0px;
+    border-top-right-radius: 63px 62px;
+    border-bottom-right-radius: 72px 40px;
+    border-bottom-left-radius: 24px 56px;
+}
+
+#top-head-fucking-shit{
+	position: absolute;
+    top: 6%;
+    left: 46%;
+    height: 67px;
+    width: 47px;
+    background: #edc233;
+    transform: rotate(-10deg);
+   
+}
+
+#top-head-fucking-shit-2{
+	position: absolute;
+    top: 6%;
+    left: 52%;
+    height: 67px;
+    width: 51px;
+    background: #edc233;
+    transform: rotate(10deg);
+   
+}
+
+#top-head-fucking-shit-3{
+	position: absolute;
+    top: 7%;
+    left: 47%;
+    height: 67px;
+    width: 80px;
+    background: #edc233;
+   
+}
+
+
+#left-bottom-wing-tiny-shit{
+	    background-color: #edc233;
+    position: absolute;
+    width: 65px;
+    height: 118px;
+    top: 61%;
+    left: 24%;
+    border-radius: 32px/ 46px;
+    transform: rotate(-53deg);
+}
+#left-bottom-wing-larger-shit{
+	background-color: #edc233;
+    position: absolute;
+    width: 85px;
+    height: 100px;
+    top: 65%;
+    left: 34%;
+    border-radius: 38px/ 52px;
+    transform: rotate(-191deg);
+    border-top-left-radius: 0;
+}
+
+#right-bottom-wing-tiny-shit{
+	background-color: #edc233;
+    position: absolute;
+    width: 65px;
+    height: 118px;
+    top: 61%;
+    left: 69%;
+    border-radius: 32px/ 46px;
+    transform: rotate(53deg);
+}
+#right-bottom-wing-larger-shit{
+	background-color: #edc233;
+    position: absolute;
+    width: 85px;
+    height: 100px;
+    top: 65%;
+    left: 56%;
+    border-radius: 38px/ 52px;
+    transform: rotate(189deg);
+    border-top-right-radius: 0;
+}
+
+#right-bottom-fucking-filler-1{
+	    background-color: #edc233;
+    position: absolute;
+    width: 39px;
+    height: 106px;
+    top: 64%;
+    left: 52.5%;
+    border-radius: 27px;
+    transform: rotate(20deg);
+
+}
+#right-bottom-fucking-filler-2{
+	background-color: #edc233;
+    position: absolute;
+    width: 38px;
+    height: 111px;
+    top: 64%;
+    left: 45.5%;
+    border-radius: 151px;
+    transform: rotate(-21deg);
+}
